@@ -26,6 +26,8 @@ If you have questions concerning this license or the applicable additional terms
 ===========================================================================
 */
 
+// Hello - This is my first addition to my Doom3 fork...
+
 #include "../idlib/precompiled.h"
 #pragma hdrstop
 
